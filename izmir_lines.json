@@ -1,0 +1,1786 @@
+[
+  {
+    "no": "5",
+    "name": "NARLIDERE - ÜÇKUYULAR İSKELE"
+  },
+  {
+    "no": "6",
+    "name": "ARIKENT - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "7",
+    "name": "SAHİLEVLERİ - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "8",
+    "name": "GÜZELBAHÇE - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "9",
+    "name": "ÖZZÜMRÜT EVLERİ - SİTELER"
+  },
+  {
+    "no": "10",
+    "name": "ÜÇKUYULAR İSKELE - KONAK"
+  },
+  {
+    "no": "15",
+    "name": "İNÖNÜ - KONAK"
+  },
+  {
+    "no": "16",
+    "name": "VATAN MAHALLESİ - ÜÇYOL"
+  },
+  {
+    "no": "17",
+    "name": "UZUNDERE TOPLU KONUTLARI - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "18",
+    "name": "YEŞİLYURT - KONAK"
+  },
+  {
+    "no": "19",
+    "name": "YEŞİLYURT - KONAK"
+  },
+  {
+    "no": "20",
+    "name": "KOOPERATİF EVLERİ - KONAK"
+  },
+  {
+    "no": "21",
+    "name": "HALİL RIFAT PAŞA - KONAK"
+  },
+  {
+    "no": "23",
+    "name": "UZUNDERE - KONAK"
+  },
+  {
+    "no": "24",
+    "name": "KAVACIK - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "25",
+    "name": "OYUNLAR KÖYÜ - ÜÇKUYULAR İSKELE"
+  },
+  {
+    "no": "27",
+    "name": "ÇAMLIK - KONAK"
+  },
+  {
+    "no": "28",
+    "name": "KAVACIK - GÜZELBAHÇE"
+  },
+  {
+    "no": "29",
+    "name": "KADRİYE MAHALLESİ - KONAK"
+  },
+  {
+    "no": "30",
+    "name": "KAYNAK - KONAK"
+  },
+  {
+    "no": "32",
+    "name": "ÇİMENTEPE SİTESİ - KONAK"
+  },
+  {
+    "no": "33",
+    "name": "KADİFEKALE - KONAK"
+  },
+  {
+    "no": "34",
+    "name": "ESENTEPE - GÜMRÜK"
+  },
+  {
+    "no": "35",
+    "name": "BALLIKUYU - KONAK"
+  },
+  {
+    "no": "36",
+    "name": "ŞİRİNYER AKTARMA MERKEZİ - KONAK"
+  },
+  {
+    "no": "39",
+    "name": "İSMETPAŞA MAHALLESİ - GÜMRÜK"
+  },
+  {
+    "no": "41",
+    "name": "LEVENT - GÜMRÜK"
+  },
+  {
+    "no": "42",
+    "name": "ÇINARTEPE - GÜMRÜK"
+  },
+  {
+    "no": "44",
+    "name": "MERSİNPINAR - GÜMRÜK"
+  },
+  {
+    "no": "45",
+    "name": "GÜLTEPE - GÜMRÜK"
+  },
+  {
+    "no": "46",
+    "name": "ÇOBANÇEŞME - GÜMRÜK"
+  },
+  {
+    "no": "49",
+    "name": "TEPECİK EĞİTİM VE ARAŞTIRMA HASTANESİ - LOZAN MEYDANI"
+  },
+  {
+    "no": "53",
+    "name": "MTK ALTINDAĞ - HALKAPINAR METRO"
+  },
+  {
+    "no": "54",
+    "name": "OTOGAR - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "57",
+    "name": "ALTINDAĞ - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "58",
+    "name": "KANDERE - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "59",
+    "name": "BORNOVA METRO - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "60",
+    "name": "PINARBAŞI - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "64",
+    "name": "AYAKKABICILAR SİTESİ - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "67",
+    "name": "PINARBAŞI - EVKA 3 METRO"
+  },
+  {
+    "no": "72",
+    "name": "İŞÇİEVLERİ - KONAK"
+  },
+  {
+    "no": "74",
+    "name": "YENİGÜN MAHALLESİ - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "77",
+    "name": "NAFİZ GÜRMAN - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "78",
+    "name": "YAMANLAR - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "82",
+    "name": "SİTELER - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "84",
+    "name": "SALİH OMURTAK - ÜÇYOL METRO"
+  },
+  {
+    "no": "89",
+    "name": "CENNETOĞLU - ÜÇYOL METRO"
+  },
+  {
+    "no": "92",
+    "name": "FUAR İZMİR - ÜÇYOL METRO"
+  },
+  {
+    "no": "102",
+    "name": "ALPASLAN MAHALLESİ - HALKAPINAR METRO"
+  },
+  {
+    "no": "104",
+    "name": "BUCA TOPLU KONUTLARI - KONAK"
+  },
+  {
+    "no": "105",
+    "name": "ÇAMLIKULE - KONAK"
+  },
+  {
+    "no": "108",
+    "name": "ESERKENT - ÜÇYOL METRO"
+  },
+  {
+    "no": "111",
+    "name": "NALDÖKEN - EVKA 3 METRO"
+  },
+  {
+    "no": "114",
+    "name": "EVKA 3 - EVKA 3 METRO"
+  },
+  {
+    "no": "117",
+    "name": "KAVAKLIDERE - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "119",
+    "name": "ALTINDAĞ - BORNOVA METRO"
+  },
+  {
+    "no": "121",
+    "name": "MAVİŞEHİR AKTARMA MERKEZİ - KONAK"
+  },
+  {
+    "no": "123",
+    "name": "ŞİRİNEVLER - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "124",
+    "name": "ALİ FUAT ERDEN - ÜÇYOL METRO"
+  },
+  {
+    "no": "125",
+    "name": "MUSTAFA KEMAL MAHALLESİ - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "126",
+    "name": "CUMHURİYET MAHALLESİ - KARŞIYAKA"
+  },
+  {
+    "no": "128",
+    "name": "EGEKENT 2 - EGEKENT AKTARMA"
+  },
+  {
+    "no": "135",
+    "name": "DOĞANÇAY - KARŞIYAKA"
+  },
+  {
+    "no": "136",
+    "name": "ÖRNEKKÖY - KARŞIYAKA"
+  },
+  {
+    "no": "137",
+    "name": "YAMANLAR - KARŞIYAKA"
+  },
+  {
+    "no": "140",
+    "name": "ÖRNEKKÖY - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "147",
+    "name": "POSTACILAR - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "148",
+    "name": "ONUR MAHALLESİ - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "149",
+    "name": "KAKLIÇ - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "152",
+    "name": "GAZİEMİR - KONAK"
+  },
+  {
+    "no": "153",
+    "name": "ÇAMKULE - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "154",
+    "name": "ALTINDAĞ - HALKAPINAR METRO"
+  },
+  {
+    "no": "156",
+    "name": "SAĞLIK OCAĞI - ÜÇYOL METRO"
+  },
+  {
+    "no": "157",
+    "name": "AKTEPE MAHALLESİ - KONAK"
+  },
+  {
+    "no": "167",
+    "name": "BALÇOVA KABRİSTAN - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "168",
+    "name": "EVKA 4 - HALKAPINAR METRO"
+  },
+  {
+    "no": "171",
+    "name": "TINAZTEPE - KONAK"
+  },
+  {
+    "no": "174",
+    "name": "KIRKLAR - ADATEPE"
+  },
+  {
+    "no": "175",
+    "name": "DAĞKIZILCA  - ADATEPE"
+  },
+  {
+    "no": "176",
+    "name": "DEMİRCİKÖY - ADATEPE"
+  },
+  {
+    "no": "177",
+    "name": "KAYNAKLAR - ADATEPE"
+  },
+  {
+    "no": "179",
+    "name": "AHMETLİ-ÇAYBAŞI"
+  },
+  {
+    "no": "193",
+    "name": "YURTOĞLU - KONAK"
+  },
+  {
+    "no": "196",
+    "name": "NAFİZ GÜRMAN - KARŞIYAKA İSKELE"
+  },
+  {
+    "no": "197",
+    "name": "NAFİZ GÜRMAN - KARŞIYAKA"
+  },
+  {
+    "no": "200",
+    "name": "MAVİŞEHİR AKTARMA MERKEZİ - HAVALİMANI"
+  },
+  {
+    "no": "202",
+    "name": "CUMHURİYET MEYDANI - HAVALİMANI"
+  },
+  {
+    "no": "204",
+    "name": "BORNOVA METRO - HAVALİMANI"
+  },
+  {
+    "no": "206",
+    "name": "ŞİRİNYER AKTARMA MERKEZİ - HAVALİMANI"
+  },
+  {
+    "no": "207",
+    "name": "BAYRAKLI KYK KIZ YURDU - BAKIRÇAY ÜNIVERSITESI"
+  },
+  {
+    "no": "212",
+    "name": "BOSTANLI İSKELE - BORNOVA METRO"
+  },
+  {
+    "no": "213",
+    "name": "BOSTANLI İSKELE - TINAZTEPE"
+  },
+  {
+    "no": "214",
+    "name": "EVKA 3 METRO - KEMER"
+  },
+  {
+    "no": "221",
+    "name": "ŞEMİKLER - BOSTANLI İSKELE"
+  },
+  {
+    "no": "222",
+    "name": "ŞEMİKLER - KARŞIYAKA İSKELE"
+  },
+  {
+    "no": "224",
+    "name": "CENNETÇEŞME - KONAK"
+  },
+  {
+    "no": "229",
+    "name": "YAKAKENT MAHALLESİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "233",
+    "name": "ESBAŞ AKTARMA MERKEZİ - KONAK"
+  },
+  {
+    "no": "234",
+    "name": "BALLIKUYU-GÜMRÜK"
+  },
+  {
+    "no": "240",
+    "name": "ZÜBEYDE HANIM MAHALLESİ - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "247",
+    "name": "EVKA 6 - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "249",
+    "name": "EVKA 4 - KEMER"
+  },
+  {
+    "no": "253",
+    "name": "HALKAPINAR METRO 2 - KONAK"
+  },
+  {
+    "no": "258",
+    "name": "ONUR MAHALLESİ - KARŞIYAKA"
+  },
+  {
+    "no": "259",
+    "name": "YEŞİLOVA MAHALLESİ - BORNOVA METRO"
+  },
+  {
+    "no": "267",
+    "name": "PINARBAŞI - BORNOVA METRO"
+  },
+  {
+    "no": "268",
+    "name": "DOĞANLAR - BORNOVA METRO"
+  },
+  {
+    "no": "277",
+    "name": "OTOGAR - TINAZTEPE"
+  },
+  {
+    "no": "284",
+    "name": "EVKA 1 - KONAK"
+  },
+  {
+    "no": "285",
+    "name": "EVKA 1 - KONAK"
+  },
+  {
+    "no": "290",
+    "name": "BOSTANLI İSKELE - TINAZTEPE"
+  },
+  {
+    "no": "295",
+    "name": "HARMANDALI - EGEKENT AKTARMA MERKEZİ"
+  },
+  {
+    "no": "302",
+    "name": "OTOGAR - KONAK"
+  },
+  {
+    "no": "303",
+    "name": "BUCA HEYKEL - KONAK"
+  },
+  {
+    "no": "304",
+    "name": "TINAZTEPE - KONAK"
+  },
+  {
+    "no": "305",
+    "name": "2. İNÖNÜ MAHALLESİ - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "311",
+    "name": "İNCİRALTI - FAHRETTİN ALTAY"
+  },
+  {
+    "no": "313",
+    "name": "YENİ MEZARLIK - BORNOVA METRO"
+  },
+  {
+    "no": "314",
+    "name": "EVKA 3 - BORNOVA METRO"
+  },
+  {
+    "no": "315",
+    "name": "KARAÇAM - EVKA 3 METRO"
+  },
+  {
+    "no": "316",
+    "name": "BEŞYOL - EVKA 3 METRO"
+  },
+  {
+    "no": "317",
+    "name": "KAVAKLIDERE - EVKA 3 METRO"
+  },
+  {
+    "no": "321",
+    "name": "ÇAMLI - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "322",
+    "name": "MUSTAFA KEMAL MAHALLESİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "326",
+    "name": "MUSTAFA KEMAL MAHALLESİ - KARŞIYAKA"
+  },
+  {
+    "no": "327",
+    "name": "İNÖNÜ MAHALLESİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "328",
+    "name": "EVKA 3 METRO - SALHANE AKTARMA MERKEZİ"
+  },
+  {
+    "no": "329",
+    "name": "GÜZELTEPE - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "330",
+    "name": "BOSTANLI İSKELE - EVKA 3 METRO"
+  },
+  {
+    "no": "335",
+    "name": "DOĞANÇAY - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "338",
+    "name": "EVKA 3 METRO - SALHANE AKTARMA MERKEZİ"
+  },
+  {
+    "no": "342",
+    "name": "EGEKENT - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "344",
+    "name": "EVKA 2 - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "346",
+    "name": "EVKA 5 - EGEKENT AKTARMA MERKEZİ"
+  },
+  {
+    "no": "353",
+    "name": "GAZİEMİR - TINAZTEPE"
+  },
+  {
+    "no": "358",
+    "name": "PINARBAŞI - BORNOVA METRO"
+  },
+  {
+    "no": "359",
+    "name": "REFİK ŞEVKET İNCE MAHALLESİ - SALHANE AKTARMA MERKEZİ"
+  },
+  {
+    "no": "361",
+    "name": "BAHRİYE ÜÇOK - KARŞIYAKA İSKELE"
+  },
+  {
+    "no": "364",
+    "name": "GERİ KAZANIMCILAR SİTESİ - HALKAPINAR METRO"
+  },
+  {
+    "no": "365",
+    "name": "KAYADİBİ - EVKA 3 METRO"
+  },
+  {
+    "no": "367",
+    "name": "ÜMİT MAHALLESİ - KEMER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "368",
+    "name": "ÜMİT MAHALLESİ - BORNOVA METRO"
+  },
+  {
+    "no": "374",
+    "name": "İZKENT - KONAK"
+  },
+  {
+    "no": "390",
+    "name": "TINAZTEPE - BORNOVA METRO"
+  },
+  {
+    "no": "398",
+    "name": "IŞIKLAR - TİRE"
+  },
+  {
+    "no": "399",
+    "name": "CENGİZHAN - BAYRAKLI ŞEHİR HASTANESİ"
+  },
+  {
+    "no": "412",
+    "name": "TINAZTEPE - YERLEŞKE"
+  },
+  {
+    "no": "417",
+    "name": "BUCA KOOP - KONAK"
+  },
+  {
+    "no": "418",
+    "name": "ŞİRİNYER AKTARMA MERKEZİ - HALKAPINAR METRO"
+  },
+  {
+    "no": "423",
+    "name": "ŞİRİNEVLER - BOSTANLI İSKELE"
+  },
+  {
+    "no": "426",
+    "name": "MUSTAFA KEMAL MAHALLLESİ - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "428",
+    "name": "EGEKENT 2 - BOSTANLI İSKELE"
+  },
+  {
+    "no": "429",
+    "name": "GÜZELTEPE - BOSTANLI İSKELE"
+  },
+  {
+    "no": "430",
+    "name": "YAKAKENT MAHALLESİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "434",
+    "name": "KÖRFEZ MAHALLESI - HALKAPINAR METRO 2"
+  },
+  {
+    "no": "435",
+    "name": "KÖRFEZ MAHALLESI - BOSTANLI İSKELE"
+  },
+  {
+    "no": "441",
+    "name": "ÇINARTEPE - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "442",
+    "name": "ATATÜRK MAHALLESİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "443",
+    "name": "EGEKENT - BOSTANLI İSKELE"
+  },
+  {
+    "no": "445",
+    "name": "EVKA 2 - BOSTANLI İSKELE"
+  },
+  {
+    "no": "446",
+    "name": "EVKA 5 - BOSTANLI İSKELE"
+  },
+  {
+    "no": "447",
+    "name": "EVKA 6 - BOSTANLI İSKELE"
+  },
+  {
+    "no": "449",
+    "name": "İZYUVA - EVKA 3 METRO"
+  },
+  {
+    "no": "465",
+    "name": "TINAZTEPE - KONAK"
+  },
+  {
+    "no": "466",
+    "name": "ŞİRİNYER AKTARMA MERKEZİ - KONAK"
+  },
+  {
+    "no": "468",
+    "name": "MEVLANA MAHALLESİ - BORNOVA METRO"
+  },
+  {
+    "no": "470",
+    "name": "TINAZTEPE - LOZAN MEYDANI"
+  },
+  {
+    "no": "471",
+    "name": "TINAZTEPE - KONAK"
+  },
+  {
+    "no": "472",
+    "name": "İŞÇİEVLERİ - TINAZTEPE"
+  },
+  {
+    "no": "475",
+    "name": "TINAZTEPE ÜNİVERSİTESİ - HALKAPINAR METRO"
+  },
+  {
+    "no": "476",
+    "name": "TINAZTEPE - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "477",
+    "name": "NAFİZ GÜRMAN - HALKAPINAR METRO2"
+  },
+  {
+    "no": "480",
+    "name": "İNCİRALTI - ÜÇKUYULAR İSKELE"
+  },
+  {
+    "no": "481",
+    "name": "İNCİRALTI - BALÇOVA"
+  },
+  {
+    "no": "483",
+    "name": "İZMİR EKONOMİ ÜNİVERSİTESİ - ÜÇKUYULAR İSKELE EKSPRES"
+  },
+  {
+    "no": "484",
+    "name": "YEŞİLBAĞLAR - KONAK"
+  },
+  {
+    "no": "485",
+    "name": "GAZİEMİR İLÇE TERMİNALİ - KONAK"
+  },
+  {
+    "no": "486",
+    "name": "OYAK SİTESİ - İNCİRALTI"
+  },
+  {
+    "no": "487",
+    "name": "DEMİRKÖPRÜ - KARŞIYAKA"
+  },
+  {
+    "no": "490",
+    "name": "TINAZTEPE - ÜÇYOL"
+  },
+  {
+    "no": "491",
+    "name": "EVKA 7 - ESBAŞ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "498",
+    "name": "EVKA 3 METRO - HALKAPINAR METRO"
+  },
+  {
+    "no": "501",
+    "name": "ÇİÇEK MAHALLESİ - HALKAPINAR METRO"
+  },
+  {
+    "no": "502",
+    "name": "CENGİZHAN - HALKAPINAR METRO"
+  },
+  {
+    "no": "503",
+    "name": "BARIŞ KAHVESİ - HALKAPINAR METRO"
+  },
+  {
+    "no": "504",
+    "name": "FUAT EDİP BAKSI - HALKAPINAR METRO"
+  },
+  {
+    "no": "505",
+    "name": "ÇAMKULE - BORNOVA METRO"
+  },
+  {
+    "no": "508",
+    "name": "MENDERES - KONAK"
+  },
+  {
+    "no": "510",
+    "name": "GAZİEMİR - BALÇOVA"
+  },
+  {
+    "no": "513",
+    "name": "GAZİ MEYDANI - HALKAPINAR METRO"
+  },
+  {
+    "no": "515",
+    "name": "TINAZTEPE - EVKA 3 METRO"
+  },
+  {
+    "no": "516",
+    "name": "YENİTEPE EVLERİ - GAZİEMİR SEMT GARAJI"
+  },
+  {
+    "no": "517",
+    "name": "UZUNDERE TOPLU KONUTLARI - FAHRETTİN ALTAY"
+  },
+  {
+    "no": "520",
+    "name": "SALİH OMURTAK - ÜÇYOL METRO"
+  },
+  {
+    "no": "522",
+    "name": "UZUNDERE TOPLU KONUTLARI - ÜÇYOL METRO"
+  },
+  {
+    "no": "523",
+    "name": "UZUNDERE - ÜÇYOL METRO"
+  },
+  {
+    "no": "524",
+    "name": "CENNETÇEŞME - ÜÇYOL METRO"
+  },
+  {
+    "no": "529",
+    "name": "YAKAKENT MAHALLESİ - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "532",
+    "name": "BAYRAKLI ŞEHİR HASTANESİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "533",
+    "name": "BAYRAKLI ŞEHİR HASTANESİ - BORNOVA METRO"
+  },
+  {
+    "no": "534",
+    "name": "BAYRAKLI ŞEHİR HASTANESİ -  HALKAPINAR METRO"
+  },
+  {
+    "no": "535",
+    "name": "BAYRAKLI ŞEHİR HASTANESİ - EGEKENT AKTARMA MERKEZİ"
+  },
+  {
+    "no": "536",
+    "name": "BAYRAKLI ŞEHİR HASTANESİ - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "537",
+    "name": "BAYRAKLI ŞEHİR HASTANESİ - DOĞANÇAY"
+  },
+  {
+    "no": "539",
+    "name": "YENİTEPE EVLERİ - SALHANE AKTARMA MERKEZİ"
+  },
+  {
+    "no": "543",
+    "name": "BOSTANLI İSKELE - HALKAPINAR METRO"
+  },
+  {
+    "no": "547",
+    "name": "ÇİĞLİ AKTARMA MERKEZİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "550",
+    "name": "GÜNALTAY - KONAK"
+  },
+  {
+    "no": "551",
+    "name": "NARLIDERE - FAHRETTİN ALTAY"
+  },
+  {
+    "no": "555",
+    "name": "OTOGAR - HALKAPINAR METRO"
+  },
+  {
+    "no": "556",
+    "name": "ÇAMLIK - ÜÇYOL METRO"
+  },
+  {
+    "no": "557",
+    "name": "BAYRAKLI TOPLU KONUTLAR - BAYRAKLI İZBAN"
+  },
+  {
+    "no": "558",
+    "name": "BAYRAKLI TOPLU KONUTLARI - BORNOVA METRO EKSPRES"
+  },
+  {
+    "no": "559",
+    "name": "BAYRAKLI TOPLU KONUTLARI - EVKA 3 METRO"
+  },
+  {
+    "no": "560",
+    "name": "PINARBAŞI - HALKAPINAR METRO"
+  },
+  {
+    "no": "564",
+    "name": "AYAKKABICILAR SİTESİ - HALKAPINAR METRO"
+  },
+  {
+    "no": "565",
+    "name": "EVKA 4 - BORNOVA METRO"
+  },
+  {
+    "no": "566",
+    "name": "EVKA 4 - BORNOVA METRO"
+  },
+  {
+    "no": "568",
+    "name": "EVKA 4 - BORNOVA METRO"
+  },
+  {
+    "no": "570",
+    "name": "LAKA MAHALLESİ - BORNOVA METRO"
+  },
+  {
+    "no": "575",
+    "name": "MALİYECİLER MAHALLESİ - ÜÇYOL METRO"
+  },
+  {
+    "no": "577",
+    "name": "NAFİZ GÜRMAN-HALKAPINAR METRO 2"
+  },
+  {
+    "no": "579",
+    "name": "YEŞİLYURT - ÜÇYOL METRO"
+  },
+  {
+    "no": "584",
+    "name": "İNÖNÜ MAHALLESİ - BORNOVA METRO"
+  },
+  {
+    "no": "585",
+    "name": "EVKA 4 - BORNOVA METRO"
+  },
+  {
+    "no": "587",
+    "name": "LİMONTEPE - KONAK"
+  },
+  {
+    "no": "588",
+    "name": "YENİ ÇAMLIK - KONAK"
+  },
+  {
+    "no": "595",
+    "name": "9 EYLÜL MAHALLESI - BOSTANLI İSKELE"
+  },
+  {
+    "no": "596",
+    "name": "KATIP ÇELEBI ÜNIVERSITESI - EGEKENT AKTARMA MERKEZİ"
+  },
+  {
+    "no": "597",
+    "name": "MUHİTTİN ERENER - BAYRAKLI SEVGİ YOLU"
+  },
+  {
+    "no": "598",
+    "name": "BAYRAKLI TOPLU KONUTLARI - BAYRAKLI İZBAN"
+  },
+  {
+    "no": "599",
+    "name": "MUHİTTİN ERENER - HALKAPINAR METRO"
+  },
+  {
+    "no": "602",
+    "name": "MENEMEN AKTARMA - İZMİR OTOGAR"
+  },
+  {
+    "no": "608",
+    "name": "EGEKENT 2 - İZMİR OTOGAR"
+  },
+  {
+    "no": "609",
+    "name": "KÖFÜNDERE - ÖDEMİŞ"
+  },
+  {
+    "no": "610",
+    "name": "FUAR İZMİR - GAZİEMİR SEMT GARAJI"
+  },
+  {
+    "no": "611",
+    "name": "ÇAYLI - ÖDEMİŞ"
+  },
+  {
+    "no": "616",
+    "name": "KAYMAKÇI - ÖDEMİŞ"
+  },
+  {
+    "no": "618",
+    "name": "ERTUĞRULKÖY - ÖDEMİŞ"
+  },
+  {
+    "no": "619",
+    "name": "SEYREK - ULUKENT AKTARMA MERKEZİ 2"
+  },
+  {
+    "no": "621",
+    "name": "KURUCUOVA - ÖDEMİŞ"
+  },
+  {
+    "no": "640",
+    "name": "SIĞACIK - SEFERİHİSAR"
+  },
+  {
+    "no": "641",
+    "name": "SEFERİHİSAR TOKİ - SEFERİHİSAR"
+  },
+  {
+    "no": "642",
+    "name": "AKARCA - SEFERİHİSAR"
+  },
+  {
+    "no": "643",
+    "name": "DEREKÖY - BERGAMA"
+  },
+  {
+    "no": "644",
+    "name": "GÖÇBEYLİ - BERGAMA"
+  },
+  {
+    "no": "645",
+    "name": "YENİKENT - BERGAMA"
+  },
+  {
+    "no": "646",
+    "name": "BERGAMA ORGANİZE SANAYİ BÖLGESİ - BERGAMA"
+  },
+  {
+    "no": "648",
+    "name": "GAZİ MAHALLESİ - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "650",
+    "name": "FUAR İZMİR - BALÇOVA"
+  },
+  {
+    "no": "651",
+    "name": "OTOGAR - YILDIZEVLER"
+  },
+  {
+    "no": "652",
+    "name": "OTOGAR - ÖĞRETMENEVİ"
+  },
+  {
+    "no": "653",
+    "name": "OTOGAR - TEPEKÖY"
+  },
+  {
+    "no": "656",
+    "name": "DEVLET HASTANESİ - DİKİLİSULTAN"
+  },
+  {
+    "no": "657",
+    "name": "MALTEPE - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "658",
+    "name": "TOKİ - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "660",
+    "name": "YENİ FOÇA - İZMİR OTOGAR"
+  },
+  {
+    "no": "661",
+    "name": "YENİ FOÇA - ALİAĞA"
+  },
+  {
+    "no": "662",
+    "name": "CENGİZHAN - KEMER"
+  },
+  {
+    "no": "664",
+    "name": "YENİ FOÇA - ESKI FOÇA"
+  },
+  {
+    "no": "665",
+    "name": "YENİ FOÇA - SİTELER"
+  },
+  {
+    "no": "666",
+    "name": "YENİ FOÇA - KOZBEYLI"
+  },
+  {
+    "no": "668",
+    "name": "NAZARKÖY - KEMALPAŞA"
+  },
+  {
+    "no": "671",
+    "name": "ŞİRİNYER AKTARMA MERKEZİ - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "675",
+    "name": "SEFERİHİSAR - FAHRETTİN ALTAY AKTARMA MERKEZİ EKSPRES"
+  },
+  {
+    "no": "676",
+    "name": "TINAZTEPE - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "678",
+    "name": "ALANKIYI - BAYINDIR"
+  },
+  {
+    "no": "679",
+    "name": "SARIYURT - BAYINDIR"
+  },
+  {
+    "no": "680",
+    "name": "BOZYAKA - LOZAN MEYDANI"
+  },
+  {
+    "no": "681",
+    "name": "FAHRETTİN ALTAY - LOZAN MEYDANI"
+  },
+  {
+    "no": "684",
+    "name": "URLA - FAHRETTİN ALTAY AKTARMA MERKEZİ EKSPRES"
+  },
+  {
+    "no": "685",
+    "name": "ÇEŞME - URLA EKSPRES"
+  },
+  {
+    "no": "690",
+    "name": "TINAZTEPE - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "691",
+    "name": "GAZİEMİR - LOZAN MEYDAN"
+  },
+  {
+    "no": "692",
+    "name": "KARAKUYU - PANCAR AKTARMA"
+  },
+  {
+    "no": "693",
+    "name": "ZEYTİNKÖY - SELÇUK"
+  },
+  {
+    "no": "694",
+    "name": "HAVUTÇULU - SELÇUK"
+  },
+  {
+    "no": "695",
+    "name": "ULUKENT KOOP - EGEKENT AKTARMA MERKEZİ"
+  },
+  {
+    "no": "697",
+    "name": "BEYDAĞ - İZMİR OTOGAR"
+  },
+  {
+    "no": "698",
+    "name": "ASARLIK TOPLU KONUTLARI - ULUKENT AKTARMA MERKEZİ 1"
+  },
+  {
+    "no": "699",
+    "name": "MUHİTTİN ERENER - KEMER"
+  },
+  {
+    "no": "701",
+    "name": "TORBALI - TEKELİ"
+  },
+  {
+    "no": "705",
+    "name": "AYRANCILAR - SARNIÇ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "707",
+    "name": "PANCAR AKTARMA MERKEZİ - MENDERES"
+  },
+  {
+    "no": "709",
+    "name": "DEMİRCİ - PANCAR AKTARMA MERKEZİ"
+  },
+  {
+    "no": "710",
+    "name": "YAZIBAŞI - KUŞÇUBURUN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "712",
+    "name": "PANCAR AKTARMA MERKEZİ - TORBALI"
+  },
+  {
+    "no": "713",
+    "name": "DEÜ MESLEK YÜKSEK OKULU - TORBALI"
+  },
+  {
+    "no": "714",
+    "name": "DEÜ MESLEK YÜKSEK OKULU - TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "715",
+    "name": "DEÜ MESLEK YÜKSEK OKULU - TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "719",
+    "name": "ÇAPAK - TORBALI"
+  },
+  {
+    "no": "721",
+    "name": "KARAKUYU - TORBALI"
+  },
+  {
+    "no": "722",
+    "name": "YAZIBAŞI - TORBALI"
+  },
+  {
+    "no": "724",
+    "name": "ŞEHİTLER - TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "727",
+    "name": "BAYINDIR - TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "728",
+    "name": "KISIK SANAYİ - SARNIÇ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "729",
+    "name": "ATAKÖY - CUMAOVASI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "732",
+    "name": "SEFERİHİSAR - URLA"
+  },
+  {
+    "no": "733",
+    "name": "YAĞCILAR - URLA"
+  },
+  {
+    "no": "734",
+    "name": "ÖZBEK - URLA"
+  },
+  {
+    "no": "737",
+    "name": "KADIOVACIK - URLA"
+  },
+  {
+    "no": "738",
+    "name": "ÇEŞMEALTI - URLA"
+  },
+  {
+    "no": "741",
+    "name": "YAMANLAR KÖYÜ - KARŞIYAKA"
+  },
+  {
+    "no": "742",
+    "name": "SANCAKLI KÖYÜ - KARŞIYAKA"
+  },
+  {
+    "no": "743",
+    "name": "TİRE - SELÇUK"
+  },
+  {
+    "no": "744",
+    "name": "FOÇA - HATUNDERE AKTARMA MERKEZİ"
+  },
+  {
+    "no": "745",
+    "name": "YENİ FOÇA - BİÇEROVA AKTARMA MERKEZİ"
+  },
+  {
+    "no": "746",
+    "name": "ÇAKMAKLI - BİÇEROVA AKTARMA MERKEZİ"
+  },
+  {
+    "no": "747",
+    "name": "EMİRALEM - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "748",
+    "name": "ULUKENT AKTARMA MERKEZİ 1- MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "749",
+    "name": "ULUKENT AKTARMA MERKEZİ 1 - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "750",
+    "name": "YENİ FOÇA - ULUKENT AKTARMA MERKEZİ 2"
+  },
+  {
+    "no": "751",
+    "name": "SASALI - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "752",
+    "name": "BURUNCUK - HATUNDERE AKTARMA MERKEZİ"
+  },
+  {
+    "no": "753",
+    "name": "GÖKTEPE - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "754",
+    "name": "BOZALAN - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "755",
+    "name": "SÜLEYMANLI - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "756",
+    "name": "KOZBEYLİ - MENEMEN AKTARMA"
+  },
+  {
+    "no": "757",
+    "name": "MALTEPE - ULUKENT AKTARMA MERKEZİ 2"
+  },
+  {
+    "no": "758",
+    "name": "ÇUKURKÖY - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "759",
+    "name": "KARAORMAN - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "760",
+    "name": "ÇEŞME-URLA"
+  },
+  {
+    "no": "761",
+    "name": "KARABURUN - URLA"
+  },
+  {
+    "no": "762",
+    "name": "GÜZELBAHÇE - URLA"
+  },
+  {
+    "no": "763",
+    "name": "DÜVERLİK - TORBALI"
+  },
+  {
+    "no": "766",
+    "name": "ANSIZCA - KEMALPAŞA"
+  },
+  {
+    "no": "767",
+    "name": "HALİLBEYLİ - KEMALPAŞA"
+  },
+  {
+    "no": "768",
+    "name": "VİŞNELİ - KEMALPAŞA"
+  },
+  {
+    "no": "769",
+    "name": "ÇAMBEL - KEMALPAŞA"
+  },
+  {
+    "no": "770",
+    "name": "SELÇUK - TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "772",
+    "name": "BEŞPINAR - KEMALPAŞA"
+  },
+  {
+    "no": "774",
+    "name": "TİRE TOPLU KONUTLAR - KAHRAT"
+  },
+  {
+    "no": "775",
+    "name": "ÖZDERE - CUMAOVASI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "776",
+    "name": "DOĞANBEY - CUMAOVASI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "777",
+    "name": "DOĞAL YAŞAM PARKI - KARŞIYAKA"
+  },
+  {
+    "no": "778",
+    "name": "ÖZDERE - ÜRKMEZ"
+  },
+  {
+    "no": "780",
+    "name": "BÜLBÜLDERE - TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "781",
+    "name": "TULUMKÖY - TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "782",
+    "name": "TAŞKESİK - TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "783",
+    "name": "BELEVİ - TORBALI"
+  },
+  {
+    "no": "784",
+    "name": "DOĞANCILAR - TORBALI"
+  },
+  {
+    "no": "785",
+    "name": "DAĞTEKKE - TORBALI"
+  },
+  {
+    "no": "786",
+    "name": "KARAOT - TORBALI"
+  },
+  {
+    "no": "787",
+    "name": "OSMANLAR - BAYINDIR"
+  },
+  {
+    "no": "788",
+    "name": "HAVUZBAŞI - BAYINDIR"
+  },
+  {
+    "no": "789",
+    "name": "EFEMÇUKURU - CUMAOVASI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "790",
+    "name": "HİSARLIK - BAYINDIR"
+  },
+  {
+    "no": "791",
+    "name": "ÇAMLIBEL - BAYINDIR"
+  },
+  {
+    "no": "792",
+    "name": "GÖLOVA - CUMAOVASI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "793",
+    "name": "BALCILAR - BAYINDIR"
+  },
+  {
+    "no": "794",
+    "name": "KÜNER - CUMAOVASI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "795",
+    "name": "ÖDEMİŞ-TORBALI"
+  },
+  {
+    "no": "796",
+    "name": "BEYDAĞ-ÖDEMİŞ"
+  },
+  {
+    "no": "798",
+    "name": "TİRE-TORBALI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "799",
+    "name": "ÇATALCA - CUMAOVASI AKTARMA"
+  },
+  {
+    "no": "800",
+    "name": "MENEMEN AKTARMA - BORNOVA METRO"
+  },
+  {
+    "no": "801",
+    "name": "KİRAZ - BEYDAĞ"
+  },
+  {
+    "no": "803",
+    "name": "KİRAZ - ÖDEMİŞ"
+  },
+  {
+    "no": "804",
+    "name": "DEREKÖY - CUMAOVASI AKTARMA MERKEZI"
+  },
+  {
+    "no": "805",
+    "name": "ÇAMLIKULE - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "806",
+    "name": "KİRAZ - OTOGAR"
+  },
+  {
+    "no": "808",
+    "name": "CUMAOVASI AKTARMA MERKEZİ - ESBAŞ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "810",
+    "name": "ATATÜRK MAHALLESİ - EGEKENT AKTARMA MERKEZİ"
+  },
+  {
+    "no": "811",
+    "name": "ENGELLİLER MERKEZİ - KONAK"
+  },
+  {
+    "no": "812",
+    "name": "BAKIRÇAY ÜNİVERSİTESİ - ULUKENT AKTARMA MERKEZİ 2"
+  },
+  {
+    "no": "814",
+    "name": "MENDERES - CUMAOVASI AKTARMA MERKEZİ"
+  },
+  {
+    "no": "816",
+    "name": "ÇİĞLİ BÖLGE EĞİTİM HASTANESİ - EGEKENT AKTARMA MERKEZİ"
+  },
+  {
+    "no": "817",
+    "name": "EGEKENT AKTARMA MERKEZİ - ÇİĞLİ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "818",
+    "name": "ESBAŞ AKTARMA MERKEZİ - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "820",
+    "name": "HARMANDALI - BOSTANLI İSKELE"
+  },
+  {
+    "no": "821",
+    "name": "MAVİŞEHİR AKTARMA MERKEZİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "823",
+    "name": "ÜÇYOL - GAZİEMİR SEMT GARAJI"
+  },
+  {
+    "no": "826",
+    "name": "GAZİ MAHALLESI - ULUKENT AKTARMA MERKEZİ 1"
+  },
+  {
+    "no": "827",
+    "name": "ULUKENT AKTARMA MERKEZİ - BOSTANLI İSKELE"
+  },
+  {
+    "no": "828",
+    "name": "SARNIÇ - YENİ ÇAMLIK"
+  },
+  {
+    "no": "829",
+    "name": "ÜRKMEZ-CUMAOVASI AKTARMA"
+  },
+  {
+    "no": "831",
+    "name": "DEMİRCİDERE - BERGAMA"
+  },
+  {
+    "no": "832",
+    "name": "YUKARICUMA - BERGAMA"
+  },
+  {
+    "no": "833",
+    "name": "GÜNEŞLİ - BERGAMA"
+  },
+  {
+    "no": "834",
+    "name": "YENİ MAHALLE - ALİAĞA AKTARMA MERKEZİ"
+  },
+  {
+    "no": "835",
+    "name": "BERGAMA - ALİAĞA AKTARMA MERKEZİ"
+  },
+  {
+    "no": "836",
+    "name": "KINIK - BERGAMA"
+  },
+  {
+    "no": "837",
+    "name": "DİKİLİ - ALİAĞA AKTARMA MERKEZİ"
+  },
+  {
+    "no": "838",
+    "name": "ŞİRİNYER AKTARMA MERKEZİ - KONAK"
+  },
+  {
+    "no": "839",
+    "name": "DİKİLİ DEVLET HASTANESİ - DİKİLİ İLÇE GARAJI"
+  },
+  {
+    "no": "842",
+    "name": "ZEYTİNDAĞ - BERGAMA"
+  },
+  {
+    "no": "847",
+    "name": "POSTACILAR MAHALLESİ - KARŞIYAKA İSKELE"
+  },
+  {
+    "no": "848",
+    "name": "KOYUNDERE - ULUKENT AKTARMA MERKEZİ 1"
+  },
+  {
+    "no": "849",
+    "name": "YENİ ŞAKRAN MAHALLESİ - ALİAĞA AKTARMA"
+  },
+  {
+    "no": "850",
+    "name": "TUZÇULLU -SEYREK - ULUKENT AKTARMA MERKEZİ 2"
+  },
+  {
+    "no": "853",
+    "name": "EGEKENT AKTARMA MERKEZİ - KARŞIYAKA İSKELE"
+  },
+  {
+    "no": "858",
+    "name": "BAYINDIR - İZMİR OTOGAR"
+  },
+  {
+    "no": "865",
+    "name": "KIZILKEÇİLİ - BAYINDIR"
+  },
+  {
+    "no": "866",
+    "name": "BUCA TOPLU KONUTLARI - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "868",
+    "name": "MENEMEN PLASTİK İHTİSAS ORGANİZE SANAYİ - ATATÜRK MAHALLESİ - MENEMEN AKTARMA MERKEZİ"
+  },
+  {
+    "no": "869",
+    "name": "BUCA TOPLU KONUTLARI - ÜÇKUYULAR MEYDAN"
+  },
+  {
+    "no": "871",
+    "name": "İŞÇİEVLERİ - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "873",
+    "name": "YENİTEPE EVLERİ - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "874",
+    "name": "İZKENT - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "875",
+    "name": "EVKA 1 - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "876",
+    "name": "ŞİRİNKAPI - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "877",
+    "name": "UZUNDERE TOPLU KONUTLARI - GAZİEMİR SEMT GARAJI"
+  },
+  {
+    "no": "878",
+    "name": "TINAZTEPE - ŞİRİNYER AKTARMA MERKEZİ"
+  },
+  {
+    "no": "879",
+    "name": "FAHRETTİN ALTAY - GAZİEMİR SEMT GARAJI"
+  },
+  {
+    "no": "882",
+    "name": "İYTE - URLA"
+  },
+  {
+    "no": "883",
+    "name": "İYTE - FAHRETTİN ALTAY AKTARMA MERKEZİ EKSPRES"
+  },
+  {
+    "no": "887",
+    "name": "SARNIÇ AKTARMA MERKEZİ - KONAK"
+  },
+  {
+    "no": "889",
+    "name": "SARNIÇ - SARNIÇ AKTARMA MERKEZİ"
+  },
+  {
+    "no": "891",
+    "name": "EVKA 7 - GAZİEMİR SEMT GARAJI"
+  },
+  {
+    "no": "906",
+    "name": "ÇEŞME - URLA"
+  },
+  {
+    "no": "909",
+    "name": "ZEYTİNALANI - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "910",
+    "name": "GAZİEMİR - KONAK"
+  },
+  {
+    "no": "912",
+    "name": "EGEKENT AKTARMA MERKEZİ - ALSANCAK GAR"
+  },
+  {
+    "no": "920",
+    "name": "ÇİĞLİ - KONAK"
+  },
+  {
+    "no": "930",
+    "name": "BORNOVA - KONAK"
+  },
+  {
+    "no": "935",
+    "name": "ALİAĞA OSB - ALİAĞA AKTARMA MERKEZİ"
+  },
+  {
+    "no": "936",
+    "name": "KINIK - ALİAĞA AKTARMA MERKEZİ"
+  },
+  {
+    "no": "940",
+    "name": "BUCA - KONAK"
+  },
+  {
+    "no": "945",
+    "name": "ESENTEPE - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "946",
+    "name": "GENERAL KAZIM ÖZALP MAHALLESİ - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "949",
+    "name": "ÇAMBEL - EVKA 3 METRO"
+  },
+  {
+    "no": "950",
+    "name": "NARLIDERE - KONAK"
+  },
+  {
+    "no": "951",
+    "name": "HALKAPINAR METRO 2 - KONAK"
+  },
+  {
+    "no": "961",
+    "name": "İÇMELER - URLA"
+  },
+  {
+    "no": "962",
+    "name": "URLA - YELKİ"
+  },
+  {
+    "no": "963",
+    "name": "EVKA 3 METRO - ALSANCAK GAR"
+  },
+  {
+    "no": "966",
+    "name": "ULUCAK - EVKA 3 METRO"
+  },
+  {
+    "no": "967",
+    "name": "ARMUTLU - KEMALPAŞA"
+  },
+  {
+    "no": "969",
+    "name": "BALÇOVA - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "971",
+    "name": "NARBEL - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "975",
+    "name": "SEFERİHİSAR - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "976",
+    "name": "MORDOĞAN - YENİLİMAN"
+  },
+  {
+    "no": "977",
+    "name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ - ÜÇKUYULAR İSKELE"
+  },
+  {
+    "no": "978",
+    "name": "PARLAK-URLA"
+  },
+  {
+    "no": "979",
+    "name": "ÖMÜR BELDESİ - SEFERİHİSAR"
+  },
+  {
+    "no": "981",
+    "name": "BALIKLIOVA - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "982",
+    "name": "İYTE - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "983",
+    "name": "BADEMLER - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "984",
+    "name": "URLA - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "985",
+    "name": "SEFERİHİSAR - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "986",
+    "name": "ÜRKMEZ - SEFERİHİSAR"
+  },
+  {
+    "no": "987",
+    "name": "ÜRKMEZ - FAHRETTİN ALTAY AKTARMA MERKEZİ"
+  },
+  {
+    "no": "988",
+    "name": "KEMALPAŞA - EVKA 3 METRO"
+  },
+  {
+    "no": "989",
+    "name": "ORHANLI - SEFERİHİSAR"
+  },
+  {
+    "no": "990",
+    "name": "BEYLER - SEFERİHİSAR"
+  },
+  {
+    "no": "991",
+    "name": "ÇAMTEPE - SEFERİHİSAR"
+  }
+]

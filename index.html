@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TransitSpot Türkiye — Canlı Toplu Taşıma Radarı</title>
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div id="app-container">
+    <!-- TOP NAVBAR -->
+    <header class="navbar">
+      <div class="nav-brand">
+        <div class="brand-icon">⚡</div>
+        <div>
+          <div class="brand-title">
+            <span>TransitSpot <span style="font-weight: 300; color: #38bdf8;">Türkiye</span></span>
+            <span class="pilot-badge">İstanbul-İzmir Pilot Uygulaması (By Sabri Karadoğan)</span>
+          </div>
+          <div class="brand-subtitle">Canlı Toplu Taşıma Radarı</div>
+        </div>
+      </div>
+
+      <!-- CITY TOGGLE -->
+      <div class="city-selector">
+        <button class="city-btn active" id="btn-istanbul" onclick="switchCity('istanbul')">
+          <span>🏙️</span> İstanbul
+        </button>
+        <button class="city-btn" id="btn-izmir" onclick="switchCity('izmir')">
+          <span>🌊</span> İzmir
+        </button>
+      </div>
+
+      <!-- SEARCH, INFO & LIVE COUNT -->
+      <div class="nav-actions">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="search-input" placeholder="Hat (örn: 500T, Kadıköy, 121)..." oninput="handleSearch(this.value)">
+        </div>
+
+        <button class="info-btn" onclick="openInfoModal()" title="Nasıl Çalışıyor & Mimari">
+          <span>ℹ️</span> Nasıl Çalışıyor?
+        </button>
+
+        <div class="live-badge">
+          <div class="pulse-dot"></div>
+          <span id="live-count-text">Yükleniyor...</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- MAP CONTAINER -->
+    <div id="map"></div>
+
+    <!-- FLOATING CONTROL PANEL -->
+    <div class="floating-panel">
+      <div class="panel-header">
+        <span>Filtreler & Modlar</span>
+        <span style="font-size: 11px; color: #38bdf8;" id="active-city-label">İstanbul</span>
+      </div>
+
+      <div class="filter-group">
+        <div class="filter-item active" id="filter-bus" onclick="toggleFilter('bus')">
+          <div class="filter-label">
+            <div class="color-dot dot-bus"></div>
+            <span>Otobüsler</span>
+          </div>
+          <span class="filter-count" id="count-bus">0</span>
+        </div>
+
+        <div class="filter-item active" id="filter-ferry" onclick="toggleFilter('ferry')">
+          <div class="filter-label">
+            <div class="color-dot dot-ferry"></div>
+            <span>Vapurlar (Deniz)</span>
+          </div>
+          <span class="filter-count" id="count-ferry">0</span>
+        </div>
+
+        <div class="filter-item active" id="filter-metrobus" onclick="toggleFilter('metrobus')">
+          <div class="filter-label">
+            <div class="color-dot dot-metrobus"></div>
+            <span id="metrobus-label">Metrobüs</span>
+          </div>
+          <span class="filter-count" id="count-metrobus">0</span>
+        </div>
+
+        <div class="filter-item active" id="filter-rail" onclick="toggleFilter('rail')">
+          <div class="filter-label">
+            <div class="color-dot dot-rail"></div>
+            <span id="rail-label">Marmaray / Metro</span>
+          </div>
+          <span class="filter-count" id="count-rail">0</span>
+        </div>
+      </div>
+
+      <div class="section-divider"></div>
+
+      <div class="toggle-switch-row">
+        <span>🚆 Raylı Sistemler (OpenRailwayMap)</span>
+        <input type="checkbox" id="toggle-railway" checked onchange="toggleRailwayLayer(this.checked)">
+      </div>
+
+      <div class="toggle-switch-row">
+        <span>🚢 Deniz Yolu Hatları (Vapurlar)</span>
+        <input type="checkbox" id="toggle-routes" checked onchange="toggleRoutesLayer(this.checked)">
+      </div>
+
+      <div class="toggle-switch-row">
+        <span>⚓ İskeleleri Göster</span>
+        <input type="checkbox" id="toggle-stations" checked onchange="toggleStationsLayer(this.checked)">
+      </div>
+    </div>
+
+    <!-- QUICK PRESETS PILL -->
+    <div class="quick-presets" id="quick-presets">
+      <!-- Injected dynamically based on city -->
+    </div>
+
+    <!-- VEHICLE DETAIL DRAWER -->
+    <div class="detail-drawer" id="detail-drawer">
+      <div class="drawer-header">
+        <div class="drawer-title-group">
+          <div class="drawer-type-icon" id="drawer-icon">🚌</div>
+          <div>
+            <div class="drawer-line-name" id="drawer-line">500T</div>
+            <div class="drawer-operator-badge" id="drawer-operator">İETT</div>
+          </div>
+        </div>
+        <button class="drawer-close" onclick="closeDrawer()">✕</button>
+      </div>
+
+      <div class="drawer-info-grid">
+        <div class="info-card">
+          <div class="info-card-label">Plaka / Kod</div>
+          <div class="info-card-value" id="drawer-plate">34 HO 1000</div>
+        </div>
+        <div class="info-card">
+          <div class="info-card-label">Kapı Numarası</div>
+          <div class="info-card-value" id="drawer-door">A-001</div>
+        </div>
+        <div class="info-card">
+          <div class="info-card-label">Anlık Hız</div>
+          <div class="info-card-value" id="drawer-speed">24 km/h</div>
+        </div>
+        <div class="info-card">
+          <div class="info-card-label">Son GPS Sinyali</div>
+          <div class="info-card-value" id="drawer-time">20:05:12</div>
+        </div>
+      </div>
+
+      <div class="drawer-actions">
+        <button class="action-btn" onclick="focusOnVehicle()">
+          <span>🎯</span> Odaklan & Takip Et
+        </button>
+      </div>
+    </div>
+  </div>
+
+    <!-- INFO / HOW IT WORKS MODAL -->
+    <div class="modal-overlay" id="info-modal" onclick="closeInfoModal(event)">
+      <div class="modal-card" onclick="event.stopPropagation()">
+        <div class="modal-header">
+          <div class="modal-title-group">
+            <span style="font-size: 24px;">ℹ️</span>
+            <div>
+              <div class="modal-title">TransitSpot Türkiye — Nasıl Çalışıyor?</div>
+              <div class="modal-subtitle">İstanbul-İzmir Pilot Uygulaması (By Sabri Karadoğan)</div>
+            </div>
+          </div>
+          <button class="modal-close" onclick="closeInfoModal()">✕</button>
+        </div>
+
+        <div class="modal-body">
+          <div class="info-section">
+            <div class="section-title">🚌 İstanbul Canlı Otobüs & Metrobüs Verisi (İBB / İETT)</div>
+            <p>İBB Açık Veri Portalı ve SeferGerçekleşme SOAP web servisi (<code>GetFiloAracKonum_json</code>) üzerinden anlık <strong>6.900'den fazla gerçek otobüsün</strong> GPS koordinatları, hızı, kapı numarası ve operatör bilgisi saniyelik çekilmektedir. Metrobüs koridorundaki araçlar özel olarak filtrelenmektedir.</p>
+          </div>
+
+          <div class="info-section">
+            <div class="section-title">🚌 İzmir Canlı Otobüs Verisi (ESHOT)</div>
+            <p>İzmir Büyükşehir Belediyesi Açık Veri Portalı ve ESHOT API'leri üzerinden <strong>49 ana arter hatta</strong> arka planda çalışan sürekli döngülü toplayıcı (harvester) sayesinde yüzlerce aktif otobüs canlı olarak haritaya aktarılmaktadır.</p>
+          </div>
+
+          <div class="info-section">
+            <div class="section-title">🚢 Deniz Ulaşımı (Şehir Hatları & İzdeniz)</div>
+            <p>İstanbul Boğazı (Kadıköy, Beşiktaş, Eminönü, Üsküdar, Adalar) ve İzmir Körfezi (Bostanlı - Üçkuyular arabalı, Karşıyaka - Konak) vapurları gerçek deniz koridorları ve AIS sefer saatleri modellemesiyle karaya değmeden pürüzsüz yüzmektedir.</p>
+          </div>
+
+          <div class="info-section">
+            <div class="section-title">🚆 Raylı Sistemler (OpenRailwayMap Altyapısı)</div>
+            <p>Marmaray, TCDD hatları, Metro İstanbul (M1–M11), İZBAN ve İzmir Metro (F. Altay - Evka 3) altyapısı, <a href="https://trains.theojaffee.net/" target="_blank" style="color: #38bdf8;">trains.theojaffee.net</a> ile birebir aynı küresel <strong>OpenRailwayMap</strong> (OpenStreetMap) vektör altyapı katmanı üzerinden milimetrik hassasiyetle çizilmektedir.</p>
+          </div>
+
+          <div class="info-section">
+            <div class="section-title">🗺️ Harita Motoru & Performans</div>
+            <p>CARTO Dark Matter karanlık harita karoları (özel API anahtarı ile filigransız) ve binlerce hareketli aracın tarayıcıyı yormaması için Leaflet Canvas Rendering (60 FPS) teknolojisi kullanılmaktadır.</p>
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button class="modal-ok-btn" onclick="closeInfoModal()">Anladım, Haritaya Dön</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="/static/app.js?v=6"></script>
+</body>
+</html>

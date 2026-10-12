@@ -1,0 +1,91 @@
+{
+  "istanbul": {
+    "routes": [
+      {
+        "id": "vapur_kadikoy_eminonu",
+        "name": "Vapur (Kadıköy ↔ Eminönü)",
+        "type": "ferry",
+        "color": "#06b6d4",
+        "coordinates": [
+          [29.0210, 40.9915], [29.0150, 41.0000], [28.9950, 41.0100], [28.9735, 41.0185]
+        ]
+      },
+      {
+        "id": "vapur_kadikoy_besiktas",
+        "name": "Vapur (Kadıköy ↔ Beşiktaş)",
+        "type": "ferry",
+        "color": "#06b6d4",
+        "coordinates": [
+          [29.0225, 40.9920], [29.0160, 40.9960], [29.0060, 41.0060],
+          [29.0010, 41.0180], [28.9990, 41.0310], [29.0065, 41.0425]
+        ]
+      },
+      {
+        "id": "vapur_uskudar_eminonu",
+        "name": "Vapur (Üsküdar ↔ Eminönü)",
+        "type": "ferry",
+        "color": "#06b6d4",
+        "coordinates": [
+          [29.0145, 41.0265], [29.0000, 41.0240], [28.9850, 41.0200], [28.9735, 41.0185]
+        ]
+      },
+      {
+        "id": "vapur_bostanci_adalar",
+        "name": "Vapur (Bostancı ↔ Adalar)",
+        "type": "ferry",
+        "color": "#06b6d4",
+        "coordinates": [
+          [29.0950, 40.9520], [29.1050, 40.9250], [29.1150, 40.8900], [29.1250, 40.8750]
+        ]
+      }
+    ],
+    "stations": [
+      { "name": "Kadıköy İskelesi", "type": "pier", "lat": 40.9915, "lon": 29.0210 },
+      { "name": "Eminönü İskelesi", "type": "pier", "lat": 41.0185, "lon": 28.9735 },
+      { "name": "Beşiktaş İskelesi", "type": "pier", "lat": 41.0425, "lon": 29.0065 },
+      { "name": "Üsküdar İskelesi", "type": "pier", "lat": 41.0265, "lon": 29.0145 },
+      { "name": "Karaköy İskelesi", "type": "pier", "lat": 41.0225, "lon": 28.9765 },
+      { "name": "Bostancı İskelesi", "type": "pier", "lat": 40.9520, "lon": 29.0950 },
+      { "name": "Büyükada İskelesi", "type": "pier", "lat": 40.8750, "lon": 29.1250 }
+    ]
+  },
+  "izmir": {
+    "routes": [
+      {
+        "id": "vapur_karsiyaka_konak",
+        "name": "İzdeniz (Karşıyaka ↔ Konak)",
+        "type": "ferry",
+        "color": "#06b6d4",
+        "coordinates": [
+          [27.1120, 38.4530], [27.1150, 38.4380], [27.1240, 38.4250], [27.1270, 38.4185]
+        ]
+      },
+      {
+        "id": "vapur_bostanli_uckuyular",
+        "name": "İzdeniz Arabalı Vapur (Bostanlı ↔ Üçkuyular)",
+        "type": "ferry",
+        "color": "#06b6d4",
+        "coordinates": [
+          [27.0950, 38.4520], [27.0850, 38.4350], [27.0720, 38.4120], [27.0670, 38.4020]
+        ]
+      },
+      {
+        "id": "vapur_alsancak_karsiyaka",
+        "name": "İzdeniz (Alsancak ↔ Karşıyaka)",
+        "type": "ferry",
+        "color": "#06b6d4",
+        "coordinates": [
+          [27.1380, 38.4410], [27.1250, 38.4480], [27.1120, 38.4530]
+        ]
+      }
+    ],
+    "stations": [
+      { "name": "Konak İskelesi", "type": "pier", "lat": 38.4185, "lon": 27.1270 },
+      { "name": "Karşıyaka İskelesi", "type": "pier", "lat": 38.4530, "lon": 27.1120 },
+      { "name": "Bostanlı İskelesi", "type": "pier", "lat": 38.4520, "lon": 27.0950 },
+      { "name": "Üçkuyular İskelesi", "type": "pier", "lat": 38.4020, "lon": 27.0670 },
+      { "name": "Alsancak İskelesi", "type": "pier", "lat": 38.4410, "lon": 27.1380 },
+      { "name": "Pasaport İskelesi", "type": "pier", "lat": 38.4290, "lon": 27.1330 }
+    ]
+  }
+}
